@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ssis-filewatcher", "ssis-filewatcher\ssis-filewatcher.dtproj", "{38B89C20-B4D8-47F3-A30F-9AC095BD170C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B89C20-B4D8-47F3-A30F-9AC095BD170C}.Development|Default.ActiveCfg = Development
+		{38B89C20-B4D8-47F3-A30F-9AC095BD170C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2087CE5D-AF78-44BA-BABB-521EF2FB4D77}
+	EndGlobalSection
+EndGlobal
